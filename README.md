@@ -52,11 +52,14 @@ Snap Shots:
  
 
 Snap Shot 1: Simple Storage Service (S3)
- 
+<img width="1917" height="970" alt="Screenshot 2026-10-30 133534" src="https://github.com/user-attachments/assets/7352bb2f-dfb5-430b-8475-3941b18cb1d3" />
+
 
 Snap Shot 2:  EC2 (Elastic Compute Cloud) – Instance
+<img width="1917" height="970" alt="Screenshot 2026-10-30 133534" src="https://github.com/user-attachments/assets/7352bb2f-dfb5-430b-8475-3941b18cb1d3" />
 
-
+## Result: 
+Thus, an S3 cloud storage bucket was created successfully, and an EC2 instance was launched successfully in AWS.
 
 
 
